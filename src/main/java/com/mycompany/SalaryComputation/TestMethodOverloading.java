@@ -2,8 +2,9 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/GUIForms/JFrame.java to edit this template
  */
-package com.mycompany.mavenproject3;
+package com.mycompany.SalaryComputation;
 
+import com.mycompany.SalaryComputation.SalaryComp;
 import javax.swing.JOptionPane;
 
 /**
