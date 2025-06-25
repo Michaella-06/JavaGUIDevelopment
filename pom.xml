@@ -10,7 +10,7 @@
         <maven.compiler.release>17</maven.compiler.release>
         <exec.mainClass>com.mycompany.mavenproject3.Mavenproject3</exec.mainClass>
     </properties>
-    <name>SalaryComputation</name>
+    <name>SalaryComp</name>
     <dependencies>
         <dependency>
             <groupId>org.netbeans.external</groupId>

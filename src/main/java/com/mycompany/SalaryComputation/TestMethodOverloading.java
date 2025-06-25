@@ -4,7 +4,6 @@
  */
 package com.mycompany.SalaryComputation;
 
-import com.mycompany.SalaryComputation.SalaryComp;
 import javax.swing.JOptionPane;
 
 /**
