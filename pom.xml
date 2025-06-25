@@ -10,7 +10,7 @@
         <maven.compiler.release>17</maven.compiler.release>
         <exec.mainClass>com.mycompany.mavenproject3.Mavenproject3</exec.mainClass>
     </properties>
-    <name>SalaryComp</name>
+    <name>Eroles_OOP_FINAL_PROJECTS</name>
     <dependencies>
         <dependency>
             <groupId>org.netbeans.external</groupId>
